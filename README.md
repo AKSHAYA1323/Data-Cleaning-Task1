@@ -39,8 +39,12 @@ Outlier detection with boxplots, IQR, and Z-score.
 Importance of preprocessing for ML model accuracy.
 
 📂 Repository Structure
+
 📂 Data-Cleaning-Task1
+
  ├── Task1_Data_Cleaning.ipynb   # Jupyter/Colab Notebook
+ 
  ├── titanic_cleaned.csv         # Cleaned dataset
+ 
  └── README.md                   # Documentation
 
