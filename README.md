@@ -42,7 +42,7 @@ Importance of preprocessing for ML model accuracy.
 
 📂 Data-Cleaning-Task1
 
- ├── Task1_Data_Cleaning.ipynb   # Jupyter/Colab Notebook
+ ├── Task1_Data_Cleaning.ipynb   # Google Colab Notebook
  
  ├── titanic_cleaned.csv         # Cleaned dataset
  
